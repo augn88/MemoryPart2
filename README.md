@@ -1,6 +1,6 @@
 # **Žaidimas „Atmintis“**
 
-Edukacinis kortų žaidimas, kuriame procedūriniam mokomojo turinio generavimui realiuoju laiku naudojami didieji kalbos modeliai (DKM).
+Edukacinis kortų žaidimas, kuriame mokomojo turinio generavimui realiuoju laiku naudojamas Google Gemini flash modelis.
 
 ## **Atsisiuntimas ir paleidimas**
 
