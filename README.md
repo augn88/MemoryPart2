@@ -25,5 +25,5 @@ Edukacinis kortų žaidimas, kuriame mokomojo turinio generavimui realiuoju laik
 
 ## **Trumpa instrukcija**
 
-* **Tinklo režimas:** Pradiniame nustatymų lange įveskite savo **Google Gemini API raktą**, kad sistema galėtų realiuoju laiku generuoti naujas edukacines užduotis. Raktas saugomas tik jūsų įrenginyje. API raktą galite įsigyti čia: https://aistudio.google.com/app/api-keys  
+* **Tinklo režimas:** Pradiniame nustatymų lange įveskite savo Google Gemini API raktą, kad sistema galėtų realiuoju laiku generuoti naujas edukacines užduotis. Raktas saugomas tik jūsų įrenginyje. **API raktą galite įsigyti čia:** https://aistudio.google.com/app/api-keys  
 * **Lokalus režimas:** Jei API rakto neturite arba nėra interneto ryšio, žaidimas automatiškai naudos iš anksto sugeneruotus atsarginius užduočių rinkinius.
